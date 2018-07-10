@@ -1,5 +1,5 @@
 # vc
-a python library for create verification-code
+a python library for create image verification-code 
 
 https://pypi.org/project/vc/
 
