@@ -4,7 +4,7 @@
     a library for create verification-code
 
     url: https://github.com/kylescript/vc
-    Author: kyle.script@gmail.com
+    Author: 124272113@qq.com
 """
 
 from setuptools import setup, find_packages
