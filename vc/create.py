@@ -4,7 +4,7 @@
     a library for create verification-code
 
     url: https://github.com/kylescript/vc
-    Author: 124272113@qq.com
+    Author: kyle.script@gmail.com
 """
 import os
 import sys

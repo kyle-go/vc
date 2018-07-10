@@ -4,7 +4,7 @@
     a library for create verification-code
 
     url: https://github.com/kylescript/vc
-    Author: 124272113@qq.com
+    Author: kyle.script@gmail.com
 """
 
 from setuptools import setup, find_packages
@@ -17,7 +17,7 @@ setup(
     license='MIT License',
     url='https://github.com/kylescript/vc',
     author='kyle',
-    author_email='kyle.script@gmail',
+    author_email='kyle.script@gmail.com',
     packages=find_packages(),
     include_package_data=True,
     platforms='any',
