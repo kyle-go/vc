@@ -7,7 +7,7 @@ https://pypi.org/project/vc/
 
 #### 0x01
 ```
-pip install vc
+pip install vc -i https://pypi.org/simple
 ```
 
 #### 0x02
